@@ -1,3 +1,13 @@
+# HYPOTHETICAL EXAMPLEL: Add massive data file
+massive-data-file.r
+
+# Ignore unecessary files like DS Store and your raw data
+#GitHub isn't great at storing raw data
+.DS_Store
+raw-data/*
+# * Is a wildcard, meaning everything in that folder will be ignored
+
+
 # History files
 .Rhistory
 .Rapp.history
